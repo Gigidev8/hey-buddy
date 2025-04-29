@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80781174164",
+    "project_id": "schoola-buddy",
+    "storage_bucket": "schoola-buddy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80781174164:android:ef94c854a91e0900491b81",
+        "android_client_info": {
+          "package_name": "com.example.schoola_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80781174164-0evop5gpf7g8gptapaq56hmsu7fh2bps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmh-I3RfxMYYi--P7EFyEyixgrSc2row8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80781174164-0evop5gpf7g8gptapaq56hmsu7fh2bps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
