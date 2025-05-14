@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:schoola_buddy/screens/ai_chatscreen/ai_chatscreen.dart';
 import 'package:schoola_buddy/screens/homescreen/homescteen.dart';
 import 'package:schoola_buddy/screens/loginscreen/loginscreen.dart';
 import 'package:schoola_buddy/screens/splash_screen/splashscreen.dart';
@@ -23,6 +24,7 @@ class MyApp extends StatelessWidget {
         '/splash': (context) => const Splashscreen(),
         '/login': (context) => const LoginScreen(),
         '/home': (context) => const HomeScreen(),
+        '/ai_chatscreen': (context) => const AIChatScreen(),
       },
     );
   }
